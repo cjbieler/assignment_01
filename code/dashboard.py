@@ -6,7 +6,6 @@ the math; and the results are shown as metric tiles and a chart. Run it with the
 "Streamlit Run: Current File" configuration (see the README), then open the
 forwarded port (http://localhost:28502).
 """
-
 import pandas as pd
 import streamlit as st
 

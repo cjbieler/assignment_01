@@ -3,4 +3,8 @@ Write your reflection here.
 See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
 
-This assignment wasn't difficult from a coding perspective but challenged me in navigating github.
+In this assignment I learned how a module like bill.py can contain functions that are used by different
+interfaces like a Jupyter notebook and a Streamlit dashboard The tests were helpful for showing which
+functions were working and which needed to be fixed. I learned more about how to navigate debugging.
+I would like to have more practice with navigating and understanding python environments since they
+are a little new to me despite having done IST 256, the interfaces I'm dealing with now feel more complex.
