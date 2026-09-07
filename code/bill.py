@@ -55,4 +55,4 @@ def is_generous(pct):
     True
     """
     return pct >= 20
-    pass
+
