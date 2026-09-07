@@ -5,7 +5,8 @@ terminology from class, and make it actionable.
 
 In this assignment I learned how a module like bill.py can contain functions that are used by different
 interfaces like a Jupyter notebook and a Streamlit dashboard The tests were helpful for showing which
-functions were working and which needed to be fixed. I learned more about how to navigate debugging.
-I would like to have more practice with navigating and understanding the vscode/python environments since they 
-are a little new to me despite having done IST 256, the interfaces I'm dealing with now feel more complex. By continuing to
-do assignments and follow along in class I'll be able to gain more experience naturally.
+functions were working and which needed to be fixed. I learned that running tests can help isolate which functions are causing
+the problems, making it easier to find and fix them. I would like to have more practice with navigating and understanding the 
+vscode/python environments since they are a little new to me despite having done IST 256, the interfaces I'm dealing with now 
+feel more complex. By continuing to do assignments and follow along in class I'll be able to gain more experience naturally.
+I will know I am improving when I can use the completely navigate the interface without having to look up how to do something.
