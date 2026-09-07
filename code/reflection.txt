@@ -8,5 +8,5 @@ interfaces like a Jupyter notebook and a Streamlit dashboard The tests were help
 functions were working and which needed to be fixed. I learned that running tests can help isolate which functions are causing
 the problems, making it easier to find and fix them. I would like to have more practice with navigating and understanding the 
 vscode/python environments since they are a little new to me despite having done IST 256, the interfaces I'm dealing with now 
-feel more complex. By continuing to do assignments and follow along in class I'll be able to gain more experience naturally.
+feel more complex. By continuing to do create functions and testing them in assignments and in class I'll be able to gain more experience naturally.
 I will know I am improving when I can use the completely navigate the interface without having to look up how to do something.
