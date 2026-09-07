@@ -4,7 +4,7 @@ See reflection.md for what makes a good reflection — be specific, use the
 terminology from class, and make it actionable.
 
 In this assignment I learned how a module like bill.py can contain functions that are used by different
-interfaces like a Jupyter notebook and a Streamlit dashboard The tests were helpful for showing which
+interfaces like a Jupyter notebook and a Streamlit dashboard. The tests were helpful for showing which
 functions were working and which needed to be fixed. I learned that running tests can help isolate which functions are causing
 the problems, making it easier to find and fix them. I would like to have more practice with navigating and understanding the 
 vscode/python environments through creating functions and testing them both in assignments and in class.
