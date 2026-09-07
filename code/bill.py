@@ -31,8 +31,6 @@ def grand_total(subtotal, pct):
     60.0
     """
     return round(subtotal + tip_amount(subtotal, pct), 2)
-    
-
 
 def split_evenly(total, people):
     """Return each person's share of `total`, rounded to the nearest cent.
